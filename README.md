@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Oiii eu sou a Iago carvalho,
+## Ola eu sou a Iago carvalho,
 - 🌱 estudando HTML CSS JAVASCRIPT E KOTLIN, ANDROID STUDIO 
 <div align="center">
   <a href="https://github.com/iagocarvalho07">
