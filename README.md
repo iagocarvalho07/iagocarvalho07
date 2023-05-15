@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 ## Ola eu sou a Iago carvalho,
-- 🌱 estudando HTML CSS JAVASCRIPT E KOTLIN, ANDROID STUDIO 
+- 🌱 estudando HTML CSS JAVASCRIPT E KOTLIN, ANDROID STUDIO, Python
 <div align="center">
   <a href="https://github.com/iagocarvalho07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagocarvalho07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
