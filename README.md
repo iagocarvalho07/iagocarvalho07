@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 ## Ola eu sou a Iago carvalho,
-- 🌱 estudando HTML CSS JAVASCRIPT E KOTLIN, ANDROID STUDIO, Python
+- 🌱 KOTLIN, ANDROID STUDIO
   
   ##
  
