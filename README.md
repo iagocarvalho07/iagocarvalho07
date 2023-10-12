@@ -7,11 +7,10 @@ Here are some ideas to get you started:
 -->
 
 
-## Ola eu sou a Iago carvalho,
-- 🔭 
+## Ola eu sou a Iago carvalho, Mobile Developer,
 - 🌱 Desenvolvedor Android, Kotlin - jetpack compose - 
-- 🌱 KOTLIN, ANDROID STUDIO, 
-  
+- 🌱 KOTLIN, ANDROID STUDIO,
+- 🌱 Dart, Flutter,
   ##
  
 <div> 
